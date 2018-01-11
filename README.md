@@ -30,4 +30,5 @@ When in use, the plugin should look and feel like the examples below...
 
 ![alt text](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture.PNG)
 ![alt text](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture1.PNG)
-![alt text](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture2.PNG)
+![image](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture2.PNG)
+![image](https://user-images.githubusercontent.com/20462076/34844199-b3dd6a40-f6de-11e7-86b3-9f655b5244ff.png)
