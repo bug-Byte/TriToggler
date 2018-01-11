@@ -28,7 +28,8 @@ To use:
 There should be three options in this element for a user to click on. The default state represents unmarked, NULL, or N/A. The OFF (red) state represents the value of false, and the ON (green) state represents the value of true.
 When in use, the plugin should look and feel like the examples below...
 
-![alt text](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture.PNG)
-![alt text](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture1.PNG)
-![image](https://raw.githubusercontent.com/bug-Byte/TriToggler/blob/master/img/Capture2.PNG)
-![image](https://user-images.githubusercontent.com/20462076/34844199-b3dd6a40-f6de-11e7-86b3-9f655b5244ff.png)
+![capture](https://user-images.githubusercontent.com/20462076/34844403-59deb17e-f6df-11e7-87aa-d5a5aee386ac.PNG)
+
+![capture1](https://user-images.githubusercontent.com/20462076/34844404-59f3232a-f6df-11e7-9c01-4ccb55a793eb.PNG)
+
+![capture2](https://user-images.githubusercontent.com/20462076/34844405-5a040fc8-f6df-11e7-95ae-f4bf94a4f35f.PNG)
